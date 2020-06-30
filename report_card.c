@@ -3,6 +3,6 @@
 int main()
 {
 	printf("This program print report card.\n");
-	printf("hello test");
+	printf("hello test push");
 	return 0;
 }
